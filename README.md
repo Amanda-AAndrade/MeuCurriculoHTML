@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -127,45 +126,3 @@
     </footer>
 </body>
 </html>
-
-
-
-
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #1e1e1e;
-    color: #fff;
-}
-
-header {
-    background: #333;
-    padding: 20px;
-    text-align: center;
-}
-
-header h1 {
-    margin: 0;
-    color: #c00cc0;
-}
-
-header a {
-    color: #8f04a1;
-    text-decoration: none;
-}
-
-section {
-    padding: 20px;
-    border-bottom: 1px solid #444;
-}
-
-h2 {
-    color: #9207bd;
-}
-
-footer {
-    text-align: center;
-    padding: 10px;
-    background: #333;
-}
