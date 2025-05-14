@@ -21,4 +21,4 @@ Habilidades técnicas
 
 Estilo responsivo básico
 
-Acesse aqui: https://github.com/Amanda-AAndrade/MeuCurriculoHTML.git
+Acesse aqui: [https://github.com/Amanda-AAndrade/MeuCurriculoHTML.git](https://amanda-aandrade.github.io/MeuCurriculoHTML/)
