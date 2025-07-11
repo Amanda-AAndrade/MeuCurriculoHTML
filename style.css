@@ -7,18 +7,18 @@ body {
 }
 
 header {
-    background:#0a0a0a;
+    background:#270694;
     padding: 20px;
     text-align: center;
 }
 // cor 
 header h1 {
     margin: 0;
-    color: #080120;
+    color: #270694;
 }
 
 header a {
-    color: #080120;
+    color: #270694;
     text-decoration: none;
 }
 
@@ -28,11 +28,11 @@ section {
 }
 
 h2 {
-    color: #080120;
+    color: #19035f;
 }
 
 footer {
     text-align: center;
     padding: 10px;
-    background:#0e0d0d;
+    background:#270694;
 }
