@@ -11,24 +11,24 @@ header {
     padding: 20px;
     text-align: center;
 }
-
+// cor 
 header h1 {
     margin: 0;
-    color: #c00cc0;
+    color: #080120;
 }
 
 header a {
-    color: #8f04a1;
+    color: #080120;
     text-decoration: none;
 }
 
 section {
     padding: 20px;
-    border-bottom: 1px solid #444;
+    border-bottom: 1px solid #070707;
 }
 
 h2 {
-    color: #9207bd;
+    color: #080120;
 }
 
 footer {
